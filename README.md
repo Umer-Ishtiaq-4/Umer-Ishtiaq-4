@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Umer Ishtiaq</h1>
 <h3 align="center">Artificial Intelligence Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-ishtiaq-4&label=Profile%20views&color=0e75b6&style=flat" alt="umer-ishtiaq-4" /> </p>
-
 - 🌱 I’m currently learning **Python Framework Django**
 
 - 📫 How to reach me **umerishtiaq4@gmail.com**
