@@ -1,23 +1,76 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+# 💫 About Me  
 
-<h1 align="center">Hi 👋, I'm Umer Ishtiaq</h1>
-<h3 align="center">Artificial Intelligence Student</h3>
+👋 **Hi, I'm Umer Ishtiaq.**  
+🧑‍💻 **Software Engineer | Generative AI | AI Agents | LLMs**  
 
-- 🌱 I’m currently learning **Python Framework Django**
+---
 
-- 📫 How to reach me **umerishtiaq4@gmail.com**
+### 🌐 Connect
 
-- ⚡ Fun fact **I think I am hard worker XD**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-ishtiaq/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:umerishtiaq4@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/umer_ishtiaq_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umer_ishtiaq_4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umer-ishtiaq-56a01320a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umer-ishtiaq-56a01320a" height="30" width="40" /></a>
-<!--<a href="https://fb.com/raja.umer.50746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raja.umer.50746" height="30" width="40" /></a>-->
-<!--<a href="https://instagram.com/umer.ishtiaq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umer.ishtiaq_" height="30" width="40" /></a>-->
-</p>
+<!-- --- -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1200/1*HVKOLLX7wprRbHTl2IPDcQ.png" alt="django" width="65" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<!-- ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=22C55E&width=500&lines=Generative+AI;AI+Agents;AI+Automations;Scalable+Systems;AI%2FML;LLMs" alt="Interest Areas Typing Animation" /></a> -->
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umer-ishtiaq-4&show_icons=true&locale=en" alt="umer-ishtiaq-4" /></p>-->
+
+
+<!-- Interest Areas: Generative AI, AI Agents, AI Automations, Scalable Systems, AI/ML, LLMs. -->
+
+---
+# 💻 Tech Stack
+
+<!-- Backend -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+<!-- Frontend -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+<!-- AI / Agents / LLMs -->
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-111827?style=flat&logo=crewai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-111827?style=flat&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=flat&logo=grok&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat&logo=modelcontextprotocol&logoColor=white)
+<!-- ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-000000?style=flat) -->
+
+<!-- Automation -->
+![n8n](https://img.shields.io/badge/n8n-EA4B8B?style=flat&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6332F6?style=flat&logo=make&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=flat)
+
+<!-- Databases -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-005AF0?style=flat&logo=pinecone&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-111827?style=flat&logo=chroma&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-0EA5E9?style=flat&logo=weaviate&logoColor=white)
+
+<!-- Cloud & DevOps -->
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20Pipelines-111827?style=flat)
+
+
+---
+
+### 📊 GitHub Stats
+
+<!-- Replace `umerishtiaq4` with your GitHub username if needed -->
+![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerishtiaq4&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerishtiaq4&layout=compact&hide_border=true)
